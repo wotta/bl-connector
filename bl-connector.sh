@@ -16,6 +16,8 @@
 # @raycast.author Wouter van Marrum
 # @raycast.authorURL https://github.com/wotta
 
+device = $1;
+
 # First check if device is connected
 # If is connected disconnect
 # Else connect to device
