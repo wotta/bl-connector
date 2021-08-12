@@ -3,6 +3,8 @@
 bl-connector is a small bash script that can be used on mac to easily connect and disconnect to a paired device. 
 This script can also be added to [Raycast](https://www.raycast.com/).
 
+![bl connector gif](img/bl-connector.gif)
+
 ## Installation
 
 Use git to install the script to the folder of your liking.
