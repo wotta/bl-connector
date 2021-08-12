@@ -3,13 +3,13 @@
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title bl-connector
-# @raycast.mode fullOutput
+# @raycast.mode compact
 
 # Optional parameters:
 # @raycast.icon 🌊
 # @raycast.argument1 { "type": "text", "placeholder": "Device" }
 # @raycast.packageName wotta/cli-utils
-# @raycast.needsConfirmation true
+# @raycast.needsConfirmation false
 
 # Documentation:
 # @raycast.description This script command helps you to connect/disconnect to the device that you want
