@@ -26,7 +26,7 @@ device=$1;
 
 if ! command -v brew &> /dev/null
   then
-    echo "❌ cannot continue script"
+    echo "❌ cannot continue script. You need brew to be installed"
     exit
 fi
 
